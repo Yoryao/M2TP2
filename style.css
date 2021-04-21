@@ -1,0 +1,22 @@
+body{
+    display: flexbox;
+    background-color: burlywood;
+}
+
+.head{
+    display: flexbox;
+    background-color: aqua;
+
+}
+
+.table{
+    margin: 15px auto 15px auto;
+
+
+
+}
+
+#ticketId{
+
+    background-color:cadetblue;
+}
